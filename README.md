@@ -1,1 +1,1 @@
-# PrjIntrotoAI
+A deep learning project for classifying Vietnamese traffic signs using a pre-trained VGG-16 model. The dataset includes 8,000+ images across 121 classes, covering various types of road signs. Fine-tuning and data augmentation were applied to improve model performance.
